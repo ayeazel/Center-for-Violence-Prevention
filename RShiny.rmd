@@ -1,2 +1,3 @@
 # Setting up
 
+print("Hello Word")
