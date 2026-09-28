@@ -1,3 +1,14 @@
-# Setting up
+# Setting up and saying hello
 
-print("Hello Word")
+```{r }
+print("Hello World!")
+```
+
+# installing and loading necessary packages
+```{r }
+install.packages("shiny")
+
+# loading necessary packages
+library(shiny)
+```
+
