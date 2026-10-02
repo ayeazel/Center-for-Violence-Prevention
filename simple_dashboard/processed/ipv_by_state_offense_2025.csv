@@ -1,0 +1,307 @@
+state,offense_type,victims
+AK,Aggravated assault,593
+AK,Intimidation (incl. stalking),163
+AK,Kidnapping,18
+AK,Murder,5
+AK,Sex offense,74
+AK,Simple assault,1534
+AL,Aggravated assault,3614
+AL,Intimidation (incl. stalking),2681
+AL,Kidnapping,152
+AL,Murder,38
+AL,Sex offense,220
+AL,Simple assault,19424
+AR,Aggravated assault,2620
+AR,Intimidation (incl. stalking),2857
+AR,Kidnapping,306
+AR,Murder,20
+AR,Sex offense,208
+AR,Simple assault,6982
+AZ,Aggravated assault,2403
+AZ,Intimidation (incl. stalking),1471
+AZ,Kidnapping,578
+AZ,Murder,21
+AZ,Sex offense,368
+AZ,Simple assault,13018
+CA,Aggravated assault,20011
+CA,Intimidation (incl. stalking),5177
+CA,Kidnapping,5086
+CA,Murder,101
+CA,Sex offense,2472
+CA,Simple assault,69882
+CO,Aggravated assault,3807
+CO,Intimidation (incl. stalking),1703
+CO,Kidnapping,1592
+CO,Murder,30
+CO,Sex offense,733
+CO,Simple assault,11749
+CT,Aggravated assault,563
+CT,Intimidation (incl. stalking),4301
+CT,Kidnapping,242
+CT,Murder,7
+CT,Sex offense,148
+CT,Simple assault,4965
+DC,Aggravated assault,379
+DC,Intimidation (incl. stalking),675
+DC,Kidnapping,6
+DC,Murder,6
+DC,Sex offense,36
+DC,Simple assault,3085
+DE,Aggravated assault,651
+DE,Intimidation (incl. stalking),610
+DE,Kidnapping,140
+DE,Murder,4
+DE,Sex offense,36
+DE,Simple assault,3132
+FL,Aggravated assault,3811
+FL,Intimidation (incl. stalking),1132
+FL,Kidnapping,874
+FL,Murder,43
+FL,Sex offense,422
+FL,Simple assault,26295
+GA,Aggravated assault,3579
+GA,Intimidation (incl. stalking),4085
+GA,Kidnapping,1142
+GA,Murder,68
+GA,Sex offense,448
+GA,Simple assault,20513
+HI,Aggravated assault,474
+HI,Intimidation (incl. stalking),269
+HI,Kidnapping,121
+HI,Murder,5
+HI,Sex offense,91
+HI,Simple assault,2947
+IA,Aggravated assault,1670
+IA,Intimidation (incl. stalking),1246
+IA,Kidnapping,158
+IA,Murder,11
+IA,Sex offense,199
+IA,Simple assault,5729
+ID,Aggravated assault,1166
+ID,Intimidation (incl. stalking),585
+ID,Kidnapping,133
+ID,Murder,4
+ID,Sex offense,306
+ID,Simple assault,3449
+IL,Aggravated assault,4284
+IL,Intimidation (incl. stalking),5003
+IL,Kidnapping,643
+IL,Murder,45
+IL,Sex offense,1089
+IL,Simple assault,46378
+IN,Aggravated assault,2586
+IN,Intimidation (incl. stalking),2002
+IN,Kidnapping,988
+IN,Murder,38
+IN,Sex offense,418
+IN,Simple assault,13465
+KS,Aggravated assault,1408
+KS,Intimidation (incl. stalking),1076
+KS,Kidnapping,753
+KS,Murder,12
+KS,Sex offense,334
+KS,Simple assault,6703
+KY,Aggravated assault,1649
+KY,Intimidation (incl. stalking),1812
+KY,Kidnapping,572
+KY,Murder,25
+KY,Sex offense,346
+KY,Simple assault,7400
+LA,Aggravated assault,3599
+LA,Intimidation (incl. stalking),1227
+LA,Kidnapping,376
+LA,Murder,34
+LA,Sex offense,168
+LA,Simple assault,9476
+MA,Aggravated assault,3436
+MA,Intimidation (incl. stalking),2236
+MA,Kidnapping,265
+MA,Murder,7
+MA,Sex offense,481
+MA,Simple assault,10411
+MD,Aggravated assault,3800
+MD,Intimidation (incl. stalking),443
+MD,Kidnapping,36
+MD,Murder,38
+MD,Sex offense,383
+MD,Simple assault,15641
+ME,Aggravated assault,326
+ME,Intimidation (incl. stalking),810
+ME,Kidnapping,12
+ME,Murder,6
+ME,Sex offense,129
+ME,Simple assault,2098
+MI,Aggravated assault,5688
+MI,Intimidation (incl. stalking),1528
+MI,Kidnapping,114
+MI,Murder,34
+MI,Sex offense,732
+MI,Simple assault,24704
+MN,Aggravated assault,2052
+MN,Intimidation (incl. stalking),3256
+MN,Kidnapping,288
+MN,Murder,20
+MN,Sex offense,557
+MN,Simple assault,7844
+MO,Aggravated assault,5141
+MO,Intimidation (incl. stalking),2501
+MO,Kidnapping,512
+MO,Murder,45
+MO,Sex offense,499
+MO,Simple assault,18162
+MS,Aggravated assault,833
+MS,Intimidation (incl. stalking),1211
+MS,Kidnapping,54
+MS,Murder,20
+MS,Sex offense,102
+MS,Simple assault,7371
+MT,Aggravated assault,728
+MT,Intimidation (incl. stalking),933
+MT,Kidnapping,198
+MT,Murder,7
+MT,Sex offense,273
+MT,Simple assault,2033
+NC,Aggravated assault,4617
+NC,Intimidation (incl. stalking),3545
+NC,Kidnapping,820
+NC,Murder,72
+NC,Sex offense,581
+NC,Simple assault,27411
+ND,Aggravated assault,319
+ND,Intimidation (incl. stalking),255
+ND,Kidnapping,58
+ND,Murder,2
+ND,Sex offense,97
+ND,Simple assault,1785
+NE,Aggravated assault,661
+NE,Intimidation (incl. stalking),1085
+NE,Kidnapping,138
+NE,Murder,13
+NE,Sex offense,181
+NE,Simple assault,4513
+NH,Aggravated assault,295
+NH,Intimidation (incl. stalking),680
+NH,Kidnapping,152
+NH,Murder,4
+NH,Sex offense,252
+NH,Simple assault,2579
+NJ,Aggravated assault,3233
+NJ,Intimidation (incl. stalking),2939
+NJ,Kidnapping,263
+NJ,Murder,12
+NJ,Sex offense,325
+NJ,Simple assault,12801
+NM,Aggravated assault,1910
+NM,Intimidation (incl. stalking),616
+NM,Kidnapping,838
+NM,Murder,14
+NM,Sex offense,197
+NM,Simple assault,7487
+NV,Aggravated assault,2464
+NV,Intimidation (incl. stalking),1798
+NV,Kidnapping,390
+NV,Murder,23
+NV,Sex offense,383
+NV,Simple assault,18794
+NY,Aggravated assault,10517
+NY,Intimidation (incl. stalking),32059
+NY,Kidnapping,1092
+NY,Murder,23
+NY,Sex offense,1173
+NY,Simple assault,32418
+OH,Aggravated assault,4897
+OH,Intimidation (incl. stalking),10260
+OH,Kidnapping,837
+OH,Murder,48
+OH,Sex offense,706
+OH,Simple assault,20596
+OK,Aggravated assault,2701
+OK,Intimidation (incl. stalking),1960
+OK,Kidnapping,306
+OK,Murder,25
+OK,Sex offense,364
+OK,Simple assault,9838
+OR,Aggravated assault,2517
+OR,Intimidation (incl. stalking),1517
+OR,Kidnapping,194
+OR,Murder,14
+OR,Sex offense,476
+OR,Simple assault,6910
+PA,Aggravated assault,3677
+PA,Intimidation (incl. stalking),3551
+PA,Kidnapping,164
+PA,Murder,42
+PA,Sex offense,486
+PA,Simple assault,15210
+RI,Aggravated assault,215
+RI,Intimidation (incl. stalking),206
+RI,Kidnapping,14
+RI,Murder,2
+RI,Sex offense,79
+RI,Simple assault,2232
+SC,Aggravated assault,3921
+SC,Intimidation (incl. stalking),1955
+SC,Kidnapping,403
+SC,Murder,51
+SC,Sex offense,305
+SC,Simple assault,18125
+SD,Aggravated assault,619
+SD,Intimidation (incl. stalking),506
+SD,Kidnapping,55
+SD,Murder,3
+SD,Sex offense,107
+SD,Simple assault,2633
+TN,Aggravated assault,5755
+TN,Intimidation (incl. stalking),6790
+TN,Kidnapping,935
+TN,Murder,45
+TN,Sex offense,536
+TN,Simple assault,25348
+TX,Aggravated assault,16775
+TX,Intimidation (incl. stalking),14675
+TX,Kidnapping,2453
+TX,Murder,192
+TX,Sex offense,2917
+TX,Simple assault,98348
+UT,Aggravated assault,1193
+UT,Intimidation (incl. stalking),1335
+UT,Kidnapping,864
+UT,Murder,7
+UT,Sex offense,677
+UT,Simple assault,4713
+VA,Aggravated assault,2713
+VA,Intimidation (incl. stalking),1579
+VA,Kidnapping,1071
+VA,Murder,59
+VA,Sex offense,574
+VA,Simple assault,22937
+VT,Aggravated assault,310
+VT,Intimidation (incl. stalking),57
+VT,Kidnapping,48
+VT,Murder,2
+VT,Sex offense,45
+VT,Simple assault,475
+WA,Aggravated assault,2913
+WA,Intimidation (incl. stalking),1639
+WA,Kidnapping,741
+WA,Murder,22
+WA,Sex offense,657
+WA,Simple assault,14153
+WI,Aggravated assault,2767
+WI,Intimidation (incl. stalking),2946
+WI,Kidnapping,776
+WI,Murder,28
+WI,Sex offense,525
+WI,Simple assault,9218
+WV,Aggravated assault,515
+WV,Intimidation (incl. stalking),326
+WV,Kidnapping,46
+WV,Murder,10
+WV,Sex offense,108
+WV,Simple assault,3066
+WY,Aggravated assault,180
+WY,Intimidation (incl. stalking),244
+WY,Kidnapping,52
+WY,Murder,3
+WY,Sex offense,74
+WY,Simple assault,1209
